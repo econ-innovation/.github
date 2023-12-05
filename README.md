@@ -17,8 +17,8 @@ You can find the following information here:
 
 # Assignment
 ## How to Submit Your First Assignment
-Follow the instructions provided in the file named `GitHub Classroom 提交作业` in this repository.
-
+1. Follow the instructions provided in the file named `GitHub Classroom 提交作业` in this repository.
+2. You can find the link to submit your assignment is in [econ-innovation Github Classroom](https://classroom.github.com/classrooms/152664803-econ-innovation-classroom-bigdata).
 
 ## Assignment 1 : R_basic
 _Dec 1, 2023_
