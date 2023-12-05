@@ -16,14 +16,22 @@ You can find the following information here:
 ---
 
 # Assignment
-## Assignment 1
-_Dec 4, 2023_
-1. Related Courses: Lecture 2 and Lecture 3 for R basic
-2. Requirements: Please refer to the detailed requirements in the document  `Assignment_idaccuracy.md`
-3. Submission Deadline: December 6, 2023, by 24:00 (midnight).
-
 ## How to Submit Your First Assignment
 Follow the instructions provided in the file named `GitHub Classroom 提交作业` in this repository.
+
+
+## Assignment 1 : R_basic
+_Dec 1, 2023_
+1. Related Courses: Lecture 2 for R basic
+2. Requirements: Please refer to the detailed requirements in the document  `Assignment_idaccuracy.md`
+3. Submission Deadline: December 7, 2023, by 24:00 (midnight).
+
+## Assignment 2 : idaccuracy
+_Dec 4, 2023_
+1. Related Courses: Lecture 3 for R basic
+2. Requirements: Please refer to the detailed requirements in the document  `Assignment_idaccuracy.md`
+3. Submission Deadline: December 7, 2023, by 24:00 (midnight).
+
 
 ---
 
