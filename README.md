@@ -17,8 +17,7 @@ You can find the following information here:
 # Key Links
 1. Shared folder in Dropbox: [bigdata_econ_2023](https://www.dropbox.com/scl/fo/iisbx4sf51n5nmwhclx56/h)
    - If you can't reach the folder, try this link: [bigdata_econ_2023 shared folder](https://www.dropbox.com/scl/fo/iisbx4sf51n5nmwhclx56/h)
-2. Github Classroom: [econ-innovation-classroom-bigdata](https://classroom.github.com/classrooms/152664803-econ-innovation-classroom-bigdata)
-3. Github to submit issue: [bigdata_econ](https://github.com/DongboShi/bigdata_econ/issues)
+2. Github to submit issue: [bigdata_econ](https://github.com/DongboShi/bigdata_econ/issues)
 
 ---
 
@@ -29,15 +28,17 @@ You can find the following information here:
 
 ## Assignment 1 : R_basic
 _Dec 1, 2023_
-1. Related Courses: Lecture 2 for R basic
-2. Requirements: Please refer to the detailed requirements in the document  `Assignment_idaccuracy.md`
-3. Submission Deadline: December 7, 2023, by 24:00 (midnight).
+1. Accept the assignment1 in github classroom : [R_basic](https://classroom.github.com/a/ofOPnAx0)
+2. Related Courses: Lecture 2 for R basic
+3. Requirements: Please refer to the detailed requirements in the document  `Assignment_idaccuracy.md`
+4. Submission Deadline: December 7, 2023, by 24:00 (midnight).
 
 ## Assignment 2 : idaccuracy
 _Dec 4, 2023_
-1. Related Courses: Lecture 3 for R basic
-2. Requirements: Please refer to the detailed requirements in the document  `Assignment_idaccuracy.md`
-3. Submission Deadline: December 7, 2023, by 24:00 (midnight).
+1. Accept the assignment2 in github classroom : [idaccuracy](https://classroom.github.com/a/OA7YVt1Y)
+2. Related Courses: Lecture 3 for R basic
+3. Requirements: Please refer to the detailed requirements in the document  `Assignment_idaccuracy.md`
+4. Submission Deadline: December 7, 2023, by 24:00 (midnight).
 
 
 ---
