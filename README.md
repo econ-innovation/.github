@@ -23,21 +23,21 @@ You can find the following information here:
 
 # Assignments
 ## How to Submit Your First Assignment
-1. Follow the instructions provided in the file named `GitHub Classroom 提交作业` in this repository.
-2. You can find the link to submit your assignment is in [econ-innovation Github Classroom](https://classroom.github.com/classrooms/152664803-econ-innovation-classroom-bigdata).
+Follow the instructions: [GitHub Classroom 提交作业](https://github.com/econ-innovation/Notification/blob/fb90dc77974a7815cc278acdd07b86238aa75e3a/github%20classrom%E6%8F%90%E4%BA%A4%E4%BD%9C%E4%B8%9A.md)
+
 
 ## Assignment 1 : R_basic
 _Dec 1, 2023_
-1. Accept the assignment1 in github classroom : [R_basic](https://classroom.github.com/a/ofOPnAx0)
+1. Accept the assignment1 in github classroom : [R_basic](https://classroom.github.com/a/OA7YVt1Y)
 2. Related Courses: Lecture 2 for R basic
-3. Requirements: Please refer to the detailed requirements in the document  `Assignment_idaccuracy.md`
+3. Requirements: [Assignment_idaccuracy](https://github.com/econ-innovation/Notification/blob/fb90dc77974a7815cc278acdd07b86238aa75e3a/Assignment1_rbasic.md)
 4. Submission Deadline: December 7, 2023, by 24:00 (midnight).
 
 ## Assignment 2 : idaccuracy
 _Dec 4, 2023_
-1. Accept the assignment2 in github classroom : [idaccuracy](https://classroom.github.com/a/OA7YVt1Y)
+1. Accept the assignment2 in github classroom : [idaccuracy](https://classroom.github.com/a/ofOPnAx0)
 2. Related Courses: Lecture 3 for R basic
-3. Requirements: Please refer to the detailed requirements in the document  `Assignment_idaccuracy.md`
+3. Requirements: [Assignment_idaccuracy](https://github.com/econ-innovation/Notification/blob/fb90dc77974a7815cc278acdd07b86238aa75e3a/Assignment2_idaccuracy.md)
 4. Submission Deadline: December 7, 2023, by 24:00 (midnight).
 
 
