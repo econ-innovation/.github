@@ -28,14 +28,14 @@ Follow the instructions: [GitHub Classroom 提交作业](https://github.com/econ
 
 ## Assignment 1 : R_basic
 _Dec 1, 2023_
-1. Accept the assignment1 in github classroom : [R_basic](https://classroom.github.com/a/OA7YVt1Y)
+1. Accept the assignment1 in github classroom : [Accept the assignment _Rbasics_](https://classroom.github.com/a/OA7YVt1Y)
 2. Related Courses: Lecture 2 for R basic
 3. Requirements: [R_basic](https://github.com/econ-innovation/Notification/blob/fb90dc77974a7815cc278acdd07b86238aa75e3a/Assignment1_rbasic.md)
 4. Submission Deadline: December 7, 2023, by 24:00 (midnight).
 
 ## Assignment 2 : idaccuracy
 _Dec 4, 2023_
-1. Accept the assignment2 in github classroom : [idaccuracy](https://classroom.github.com/a/ofOPnAx0)
+1. Accept the assignment2 in github classroom : [Accept the assignment _idaccuracy_](https://classroom.github.com/a/ofOPnAx0)
 2. Related Courses: Lecture 3 for R basic
 3. Requirements: [Assignment_idaccuracy](https://github.com/econ-innovation/Notification/blob/fb90dc77974a7815cc278acdd07b86238aa75e3a/Assignment2_idaccuracy.md)
 4. Submission Deadline: December 7, 2023, by 24:00 (midnight).
