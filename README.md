@@ -14,13 +14,13 @@ You can find the following information here:
 **Wishing everyone a successful and smooth learning journey!**
 
 ---
-# Key Link
+# Key Links
 1. Shared folder in Dropbox: [bigdata_econ_2023](https://www.dropbox.com/scl/fo/iisbx4sf51n5nmwhclx56/h)
 2. Github Classroom: [econ-innovation-classroom-bigdata](https://classroom.github.com/classrooms/152664803-econ-innovation-classroom-bigdata)
 3. Github to submit issue: [bigdata_econ](https://github.com/DongboShi/bigdata_econ/issues)
 ---
 
-# Assignment
+# Assignments
 ## How to Submit Your First Assignment
 1. Follow the instructions provided in the file named `GitHub Classroom 提交作业` in this repository.
 2. You can find the link to submit your assignment is in [econ-innovation Github Classroom](https://classroom.github.com/classrooms/152664803-econ-innovation-classroom-bigdata).
@@ -40,9 +40,9 @@ _Dec 4, 2023_
 
 ---
 
-# Pre-Class Preparation
+# Pre-Class Preparations
 ## For Lecture 4 on December 7, 2023
 1. Download PyCharm
 2. For Windows users, configuring PyCharm to work with the WSL virtual environment. See the instructional video `PyCharm - Configure an interpreter using WSL.mp4` on Dropbox.
-3. 检查自己是否有python3，在命令行输入`python3`；如果没有，需要安装python3，wsl2使用apt安装，mac使用brew安装
+3. 检查自己是否有python3，在命令行输入`python3 --version`，如果返回python3的版本号说明已经安装；如果没有，需要安装python3，wsl2使用apt安装，mac使用brew安装
 
