@@ -39,4 +39,5 @@ _Dec 4, 2023_
 ## For Lecture 4 on December 7, 2023
 1. Download PyCharm
 2. For Windows users, configuring PyCharm to work with the WSL virtual environment. See the instructional video `PyCharm - Configure an interpreter using WSL.mp4` on Dropbox.
+3. 检查自己是否有python3，在命令行输入`python --version`；如果没有，需要安装python3，wsl2使用apt安装，mac使用brew安装
 
