@@ -17,7 +17,7 @@ You can find the following information here:
 # Key Link
 1. Shared folder in Dropbox: [bigdata_econ_2023](https://www.dropbox.com/scl/fo/iisbx4sf51n5nmwhclx56/h)
 2. Github Classroom: [econ-innovation-classroom-bigdata](https://classroom.github.com/classrooms/152664803-econ-innovation-classroom-bigdata)
-3. Github to submit issue: [bigdata_econ]（https://github.com/DongboShi/bigdata_econ/issues）
+3. Github to submit issue: [bigdata_econ](https://github.com/DongboShi/bigdata_econ/issues)
 ---
 
 # Assignment
