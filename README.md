@@ -40,7 +40,7 @@ _Dec 4, 2023_
 3. Requirements: [Assignment_idaccuracy](https://github.com/econ-innovation/Notification/blob/fb90dc77974a7815cc278acdd07b86238aa75e3a/Assignment2_idaccuracy.md)
 4. Submission Deadline: December 7, 2023, by 24:00 (midnight).
 
-## Assignment 3 : pybasicy
+## Assignment 3 : pybasic
 _Dec 7, 2023_
 1. Accept the assignment3 in github classroom : [Accept the assignment _pybasicy_](https://classroom.github.com/a/IaR6laBH)
 2. Related Courses: Lecture 4 for Python basic
