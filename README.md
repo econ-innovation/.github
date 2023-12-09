@@ -40,7 +40,12 @@ _Dec 4, 2023_
 3. Requirements: [Assignment_idaccuracy](https://github.com/econ-innovation/Notification/blob/fb90dc77974a7815cc278acdd07b86238aa75e3a/Assignment2_idaccuracy.md)
 4. Submission Deadline: December 7, 2023, by 24:00 (midnight).
 
-
+## Assignment 3 : pybasicy
+_Dec 7, 2023_
+1. Accept the assignment3 in github classroom : [Accept the assignment _pybasicy_](https://classroom.github.com/a/IaR6laBH)
+2. Related Courses: Lecture 4 for Python basic
+3. Requirements: [Assignment3_pybasic](https://github.com/econ-innovation/Notification/blob/a25aa88fde20a62fb2c939559d063d3b24d9089a/Assignment3_pybasic.md)
+4. Submission Deadline: December 14, 2023, by 23:59.
 ---
 
 # Pre-Class Preparations
@@ -49,3 +54,7 @@ _Dec 4, 2023_
 2. For Windows users, configuring PyCharm to work with the WSL virtual environment. See the instructional video `PyCharm - Configure an interpreter using WSL.mp4` on Dropbox.
 3. 检查自己是否有python3，在命令行输入`python3 --version`，如果返回python3的版本号说明已经安装；如果没有，需要安装python3，wsl2使用apt安装，mac使用brew安装
 
+## For Lecture 5 on Dec 10, 2023
+请分别官方教程安装mysql
+Windows用户：https://dev.mysql.com/doc/refman/8.0/en/linux-installation-debian.html
+Mac用户：https://dev.mysql.com/doc/refman/8.0/en/macos-installation.html
