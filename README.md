@@ -56,5 +56,5 @@ _Dec 7, 2023_
 
 ## For Lecture 5 on Dec 10, 2023
 请分别官方教程安装mysql
-Windows用户：https://dev.mysql.com/doc/refman/8.0/en/linux-installation-debian.html
-Mac用户：https://dev.mysql.com/doc/refman/8.0/en/macos-installation.html
+- Windows用户：https://dev.mysql.com/doc/refman/8.0/en/linux-installation-debian.html
+- Mac用户：https://dev.mysql.com/doc/refman/8.0/en/macos-installation.html
