@@ -48,6 +48,15 @@ _Dec 7, 2023_
 4. Submission Deadline: December 14, 2023, by 23:59.
 ---
 
+## Assignment 4 : idaccuracy2
+_Dec 11, 2023_
+1. Accept the assignment4 in github classroom:  [Accept the assignment4 _idaccuracy2_](https://classroom.github.com/a/wmyKvGb0)
+2. Related Courses: Lecture 5
+3. Requirements：Check updates related to "作业二" in the [Assignment_idaccuracy](https://github.com/econ-innovation/Notification/blob/fb90dc77974a7815cc278acdd07b86238aa75e3a/Assignment2_idaccuracy.md) as requirements for this current assignment
+4. Submission Deadline: December 17, 2023, by 23:59.
+
+---
+
 # Pre-Class Preparations
 ## For Lecture 4 on December 7, 2023
 1. Download PyCharm
