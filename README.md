@@ -67,19 +67,19 @@ _Dec 14, 2023_
 _Dec 15, 2023_
 1. Accept the assignment:  [Accept the assignment6 _cvand_](https://classroom.github.com/a/boRGmXHL)
 2. Related Courses: Lecture 6
-3. Submission Deadline: December 24, 2023, by 23:59.
+3. Submission Deadline: **December 29, 2023, by 23:59.**
 ---
 ## Assignment 7 : dashboard
 _Dec 15, 2023_
 1. Accept the assignment:  [Accept the assignment7 _dashboard_](https://classroom.github.com/a/UA7Z9ecT)
 2. Related Courses: Lecture 7 
-3.  Submission Deadline: December 24, 2023, by 23:59.
+3.  Submission Deadline: **December 29, 2023, by 23:59**.
 ---
 ## Assignment 8 : wosparse
 _Dec 15, 2023_
 1. Accept the assignment:  [Accept the assignment8 _wosparse_](https://classroom.github.com/a/Mk0pzviB)
 2. Related Courses: Lecture 8 
-3. Submission Deadline: December 24, 2023, by 23:59.
+3. Submission Deadline: **December 22, 2023, by 23:59.**
 ---
 
 # Pre-Class Preparations
