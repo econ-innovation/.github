@@ -16,9 +16,17 @@ You can find the following information here:
 ---
 # Key Links
 1. Shared folder in Dropbox: [bigdata_econ_2023](https://www.dropbox.com/scl/fo/iisbx4sf51n5nmwhclx56/h)
-   - If you can't reach the folder, try this link: [bigdata_econ_2023 shared folder](https://www.dropbox.com/scl/fo/iisbx4sf51n5nmwhclx56/h)
+   - The materials related to courses are in the shared fodler, including slides, records, data and code.
 2. Github to submit issue: [bigdata_econ](https://github.com/DongboShi/bigdata_econ/issues)
 
+---
+
+# For students who have just joined the course
+_Dec 12 2023_
+
+1. Please check the [group information](https://github.com/econ-innovation/Notification/blob/3d00accadabbba81203c4398ec1ea791fcee5e4a/GroupInformation.md) and homework notifications in this repo. You can find your team leader in WeChat group and come to them if you have related questions.
+2. Course Schedule: Ensure you have watched all the course lectures and submit the **first five assignments** by **January 3rd** 2024.
+3. The next lecture will be after New Year's Day. Further notice will be provided before the class.
 ---
 
 # Assignments
