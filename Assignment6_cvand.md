@@ -47,4 +47,4 @@ cite.csv
 
 2. Dongbo Shi et al. ,Has China’s Young Thousand Talents program been successful in recruiting and nurturing top-caliber scientists?.Science379,62-65(2023).DOI:10.1126/science.abq1218 (附件)
 
-**通过R语言实现上述算法**
+**通过python语言实现上述算法**
