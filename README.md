@@ -90,6 +90,11 @@ _Dec 15, 2023_
 2. Related Courses: Lecture 8 
 3. Submission Deadline: **December 22, 2023, by 23:59.**
 ---
+## Assignment 9 : regression
+_Dec 23, 2023_
+1. Accept the assignment:  [Accept the assignment9 _regression_](https://classroom.github.com/a/GlWk-Vu4)
+2. Submission Deadline: **January 13, 2024, by 23:59.**
+---
 
 # Pre-Class Preparations
 ## For Lecture 4 on December 7, 2023
