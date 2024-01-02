@@ -63,7 +63,7 @@ _Dec 7, 2023_
 5. Reference examples:
    - [Li Ji](https://github.com/econ-innovation/pybasic-SkyeJi.git)
    - [Wang Ying](https://github.com/econ-innovation/pybasic-yingwang1023.git)
-   - [Wang Runsheng)[https://github.com/econ-innovation/pybasic-Runsheng-Wang.git]
+   - [Wang Runsheng](https://github.com/econ-innovation/pybasic-Runsheng-Wang.git)
 ---
 
 ## Assignment 4 : idaccuracy2
