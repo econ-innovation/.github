@@ -89,6 +89,8 @@ _Dec 15, 2023_
 1. Accept the assignment:  [Accept the assignment8 _wosparse_](https://classroom.github.com/a/Mk0pzviB)
 2. Related Courses: Lecture 8 
 3. Submission Deadline: **December 22, 2023, by 23:59.**
+4. Reference examples：
+   - [LiJi](https://github.com/econ-innovation/a8-wosparse-SkyeJi.git)
 ---
 ## Assignment 9 : regression
 _Dec 23, 2023_
