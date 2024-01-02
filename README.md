@@ -42,7 +42,7 @@ _Dec 1, 2023_
 3. Requirements: [R_basic](https://github.com/econ-innovation/Notification/blob/fb90dc77974a7815cc278acdd07b86238aa75e3a/Assignment1_rbasic.md)
 4. Submission Deadline: December 7, 2023, by 24:00 (midnight).
 5. Reference example:
-  - [Li Ji](https://github.com/econ-innovation/rbasics-SkyeJi.git)
+   - [Li Ji](https://github.com/econ-innovation/rbasics-SkyeJi.git)
 
 ## Assignment 2 : idaccuracy
 _Dec 4, 2023_
@@ -61,9 +61,9 @@ _Dec 7, 2023_
 3. Requirements: [Assignment3_pybasic](https://github.com/econ-innovation/Notification/blob/a25aa88fde20a62fb2c939559d063d3b24d9089a/Assignment3_pybasic.md)
 4. Submission Deadline: December 14, 2023, by 23:59.
 5. Reference examples:
-  - [Li Ji](https://github.com/econ-innovation/pybasic-SkyeJi.git)
-  - [Wang Ying](https://github.com/econ-innovation/pybasic-yingwang1023.git)
-  - [Wang Runsheng)[https://github.com/econ-innovation/pybasic-Runsheng-Wang.git]
+   - [Li Ji](https://github.com/econ-innovation/pybasic-SkyeJi.git)
+   - [Wang Ying](https://github.com/econ-innovation/pybasic-yingwang1023.git)
+   - [Wang Runsheng)[https://github.com/econ-innovation/pybasic-Runsheng-Wang.git]
 ---
 
 ## Assignment 4 : idaccuracy2
