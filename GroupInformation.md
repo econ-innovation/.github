@@ -42,3 +42,11 @@
 | XHP23035     | 朱清              | 5     |
 | XHP23036     | 杨雅程            | 5     |
 | XHP23039     | 孙凯            | 5     |
+
+---
+
+XHP23044	王子方  group3
+XHP23045	龚曼宁  group4
+XHP23046	佟彤    group1
+XHP23047	马文婷  group2
+XHP23048	王典    group5
