@@ -115,6 +115,13 @@ _Dec 23, 2023_
 1. Accept the assignment:  [Accept the assignment9 _regression_](https://classroom.github.com/a/GlWk-Vu4)
 2. Submission Deadline: **January 13, 2024, by 23:59.**
 ---
+## Assignment 10 : cml
+_Feb 1, 2024_
+1. Accept the assignment:  [Accept the assignment10 _cml_](https://classroom.github.com/a/s21HnKWV)
+2. Submission Deadline: **January 15, 2024, by 23:59.**
+
+---
+
 
 # Pre-Class Preparations
 ## For Lecture 4 on December 7, 2023
