@@ -24,7 +24,7 @@ You can find the following information here:
 # For students who have just joined the course
 _Jan 29 2024_
 
-1. Please check the [group information](https://github.com/econ-innovation/Notification/blob/3d00accadabbba81203c4398ec1ea791fcee5e4a/GroupInformation.md) and assignment requirements in this repo. You can find your team leader in WeChat group and reach out to them for any related inquiries.
+1. Please check the [group information](https://github.com/econ-innovation/Notification/blob/main/GroupInformation.md) and assignment requirements in this repo. You can find your team leader in WeChat group and reach out to them for any related inquiries.
 2. Please submit your questions related to course material as issues on GitHub. It's preferable to avoid posing questions in the WeChat group. You can find the key link above.
 3. Course Schedule: Ensure you have watched all the course lectures and submit the **first five assignments** by **Feb 14** 2024.
 4. Further notice will be provided before the class.
