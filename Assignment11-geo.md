@@ -3,6 +3,14 @@
 
 ./data/assigment_geo
 
+hefei.txt表示合肥市的所有企业信息
+
+|变量|含义|
+|:-----|:-----|
+|pripid|企业id|
+|lng|经度|
+|lat|纬度|
+|city|城市|
 
 ## 题目
 
