@@ -132,6 +132,18 @@ _Apr 8, 2024_
 1. Accept the assignment:  [Accept the assignment12 _opp_](https://classroom.github.com/a/-0zFjPn4)
 2. Submission Deadline: **Apr 15, 2024, by 23:59.**
 
+---
+## Assignment 13 : crawler
+_Apr 21, 2024_
+1. Accept the assignment:  [Accept the assignment13 _crawler_](https://classroom.github.com/a/peOtLZu3)
+2. Submission Deadline: **Apr 28, 2024, by 23:59.**
+
+---
+## Assignment 14 : cssci
+_Apr 21, 2024_
+1. Accept the assignment:  [Accept the assignment14 _cssci_](https://classroom.github.com/a/r_wX2mC-)
+2. Submission Deadline: **May 5, 2024, by 23:59.**
+---
 
 # Pre-Class Preparations
 ## For Lecture 4 on December 7, 2023
